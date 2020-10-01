@@ -1,7 +1,6 @@
 # Guesture controlled music player
 
-This app uses a collection of computer vision techniques to detect guestures and control a music player.
-More specifically, it yses skin detection, template matching, object compactness anlysis, motion energy analysis to perform guesture detection.
+This app uses a collection of computer vision techniques to detect gestures and control a music player. More specifically, it uses skin detection, template matching, object compactness analysis, motion energy analysis to perform gesture detection.
 
 ## Guestures detected
 
