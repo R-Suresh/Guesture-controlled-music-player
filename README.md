@@ -11,7 +11,7 @@ Currently 4 guestures are detected.
 
 Just keep two fingers up as shown in the image below.
 
-![point up](/images/point_up.jpeg)
+![point up](/images/point_up_.jpeg)
 
 ### Poiting sideways
 
@@ -24,14 +24,14 @@ Point two fingers sideways as shown in the image below.
 
 Keep palm straight as shown in the image below.
 
-![vertical palm](/images/vertical_palm.jpeg)
+![vertical palm](/images/vertical_palm_.jpeg)
 
 
 ### Swipe
 
 Perform a swiping motion as shown in the image below.
 
-![swipe](/images/swipe.jpeg)
+![swipe](/images/swipe_.jpeg)
 
 
 ## Running instructions
