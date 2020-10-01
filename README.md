@@ -36,7 +36,10 @@ Perform a swiping motion as shown in the image below.
 
 ## Running instructions
 
-* Download the repo and run the app file from the command line as follows -
+* Download the repo and pip install the requirements.txt
+`pip install -r requirements.txt`
+
+* Run the app file from the command line as follows -
 `python app.py`
 
 * This would open up a detection window to set skin detection and threshold parameters. 
