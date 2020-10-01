@@ -45,11 +45,15 @@ Perform a swiping motion as shown in the image below.
     * Then in a different window set the absolute threshold value.
     * Once happy with settings press `q`
 
+![Initial selction](/images/selection_initial.JPG)
+
 * The GUI gets launched.
     * The "pointing up" guesture controls play/pause
     * The "swipe" guesture increases volume
     * The "vertical palm" guesture decreases volume
     * The "pointing sideways" guesture shuffles and plays a random next song
+
+![app running](/images/app_running.JPG)
 
 ## Music library
 
